@@ -12,16 +12,16 @@
 C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / Tensorflow / Node.js / MongoDB / 
 <br><br>
 
-![Sai Ganesh Github Stats](https://github-readme-stats.vercel.app/api?username=saiganesh612&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
+![Sai raj Github Stats](https://github-readme-stats.vercel.app/api?username=sairaj182001&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
 <br>
 
-![Profile views](https://gpvc.arturio.dev/saiganesh612)  
+![Profile views](https://gpvc.arturio.dev/sairaj182001)  
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh612&langs_count=8&layout=compact)](https://github.com/saiganesh612/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sairaj182001&langs_count=8&layout=compact)](https://github.com/sairaj182001/github-readme-stats)
 - 📫 How to reach me: ...</br>
 <p align="center">
-<a href="https://www.linkedin.com/in/saiganesh612/"><img src="https://img.shields.io/badge/-Sai Ganesh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ganeshrao9949@gmail.com"><img src="https://img.shields.io/badge/-ganeshrao9949@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ganesh__612__/"><img src="https://img.shields.io/badge/-Sai Ganesh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sairaj182001/"><img src="https://img.shields.io/badge/-Sai Ganesh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sairajpatel2001@gmail.com"><img src="https://img.shields.io/badge/-sairajpatel2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_sairaj_patel/"><img src="https://img.shields.io/badge/-Sai raj-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
