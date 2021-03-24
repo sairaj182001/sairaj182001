@@ -22,7 +22,7 @@ C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / Tensorflow / Node.js 
 - 📫 How to reach me: ...</br>
 <p align="center">
 <a href="https://www.linkedin.com/in/sairaj-patel-bai-4984a01a7/"><img src="https://img.shields.io/badge/-Sai Raj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ganeshrao9949@gmail.com"><img src="https://img.shields.io/badge/-ganeshrao9949@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ganesh__612__/"><img src="https://img.shields.io/badge/-Sai Ganesh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:sairajpatel2001@gmail.com"><img src="https://img.shields.io/badge/-sairajpatel2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_sairaj_patel/"><img src="https://img.shields.io/badge/-Sai Raj-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
