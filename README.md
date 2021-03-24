@@ -10,7 +10,7 @@
 
 <br>
 <b>Skills:</b><br>
-C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / Tensorflow / Node.js / MongoDB / 
+C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / machine learning / Deep learning 
 <br><br>
 
 ![Sai Raj Github Stats](https://github-readme-stats.vercel.app/api?username=sairaj182001&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
