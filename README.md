@@ -2,7 +2,7 @@
 
 <!--
 **sairaj182001/sairaj182001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 <h1>This is K.Sai Ganesh</h1>
 - 🎓 I’m an Undergrad at IIIT Dharwad with a major in Computer Science </br>
