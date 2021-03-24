@@ -13,7 +13,7 @@
 C / C++ / PYTHON / HTML / CSS / Bootstrap / JS / Reactjs / Tensorflow / Node.js / MongoDB / 
 <br><br>
 
-![Sai Ganesh Github Stats](https://github-readme-stats.vercel.app/api?username=sairaj182001&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
+![Sai Raj Github Stats](https://github-readme-stats.vercel.app/api?username=sairaj182001&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/sairaj182001)  
