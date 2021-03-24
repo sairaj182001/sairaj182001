@@ -4,7 +4,7 @@
 **sairaj182001/sairaj182001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1>This is B.Sairaj</h1>
+<h1>This is B.Sai Raj</h1>
 - 🎓 I’m an Undergrad at IIIT Dharwad with a major in Computer Science </br>
 - 💻 I’m a Full Stack Developer and an AI enthusiasist(Major interest:DL)</br>
 
